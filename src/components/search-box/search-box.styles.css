@@ -1,0 +1,14 @@
+.search {
+  -webkit-appearance: none;
+  padding: 30px;
+  border: none;
+  outline: none;
+  margin-bottom: 30px;
+  line-height: 30px;
+}
+
+.input {
+  padding: 20px;
+  border: 1px solid gray;
+  margin: 0;
+}
